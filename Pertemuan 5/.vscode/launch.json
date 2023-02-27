@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ManagerTest",
+            "request": "launch",
+            "mainClass": "Exercise3.ManagerTest",
+            "projectName": "20-02-2023_c9f3dccf"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeTest",
+            "request": "launch",
+            "mainClass": "Exercise3.EmployeeTest",
+            "projectName": "20-02-2023_c9f3dccf"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestShape",
+            "request": "launch",
+            "mainClass": "Exercise2.TestShape",
+            "projectName": "20-02-2023_c9f3dccf"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCylinder",
+            "request": "launch",
+            "mainClass": "Task1_2.TestCylinder",
+            "projectName": "20-02-2023_c9f3dccf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCylinder",
+            "request": "launch",
+            "mainClass": "W5.TestCylinder",
+            "projectName": "20-02-2023_c9f3dccf"
+        }
+    ]
+}
